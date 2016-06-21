@@ -1,0 +1,12 @@
+E:\Craw\Vanilla\Vanilla\obj\Debug\Vanilla.csprojResolveAssemblyReference.cache
+E:\Craw\Vanilla\Vanilla\bin\Debug\Vanilla.exe
+E:\Craw\Vanilla\Vanilla\bin\Debug\Vanilla.pdb
+E:\Craw\Vanilla\Vanilla\bin\Debug\Newtonsoft.Json.dll
+E:\Craw\Vanilla\Vanilla\obj\Debug\Vanilla.exe
+E:\Craw\Vanilla\Vanilla\obj\Debug\Vanilla.pdb
+E:\接收文件\Vanilla\Vanilla\obj\Debug\Vanilla.exe
+E:\接收文件\Vanilla\Vanilla\obj\Debug\Vanilla.pdb
+E:\接收文件\Vanilla\Vanilla\bin\Debug\Vanilla.exe
+E:\接收文件\Vanilla\Vanilla\bin\Debug\Vanilla.pdb
+E:\接收文件\Vanilla\Vanilla\bin\Debug\Newtonsoft.Json.dll
+E:\接收文件\Vanilla\Vanilla\obj\Debug\Vanilla.csprojResolveAssemblyReference.cache
